@@ -1,4 +1,6 @@
-I'm a student
+I'm a student.
+
+https://about-me-hazel-ten.vercel.app/
 
 <!---
 haruki26/haruki26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
