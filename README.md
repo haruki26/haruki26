@@ -1,6 +1,10 @@
-<p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruki26&layout=compact&theme=tokyonight" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=haruki26&theme=tokyonight&show_icons=ture" />
+<p align="center">
+  <img alt="Profile Detail" height="150px" src="https://raw.githubusercontent.com/haruki26/haruki26/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+  <div>
+    <img alt="Top Langs" height="150px" src="https://raw.githubusercontent.com/haruki26/haruki26/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+    <img alt="github stats" height="150px" src="https://raw.githubusercontent.com/haruki26/haruki26/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+  </div>
+  <img alt="commits" height="150px" src="https://raw.githubusercontent.com/haruki26/haruki26/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
 </p>
 
 <!---
